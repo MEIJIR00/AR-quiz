@@ -1,0 +1,42 @@
+{
+  "modelName": "texture",
+  "name": "Quiz header 2(1)",
+  "identifier": "texture:17688-c54caed0-3c31-4ac9-8fd5-61a57f446d19",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a081767202da8adecc423cebc81e19c0",
+  "assetLocator": "textures/Quiz header 2(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:18252-c54caed0-3c31-4ac9-8fd5-61a57f446d19",
+    "textureExportConfig:18816-c54caed0-3c31-4ac9-8fd5-61a57f446d19",
+    "textureExportConfig:19388-c54caed0-3c31-4ac9-8fd5-61a57f446d19"
+  ],
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 734,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 736,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a081767202da8adecc423cebc81e19c0",
+      "colorCount": 52363,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.853184021513004,
+      "pixelsHigh": 734,
+      "pixelsWide": 736
+    }
+  ]
+}
